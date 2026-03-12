@@ -72,9 +72,9 @@ Score	Level
 quiz-project
 │
 ├── index.html
-├── mysterysound2.wav
-├── SherlockHolmes with Colors (1).png
-├── sherlockHolmes4.png
+├── mysterysound.wav
+├── sherlockIco2.png
+├── sherlockIcon1.png
 └── README.md
 🚀 How to Run the Project
 
